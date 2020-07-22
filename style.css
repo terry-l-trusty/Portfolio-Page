@@ -119,6 +119,17 @@ ol {
   justify-content: center;
   font-weight: bolder;
 }
+
+
+/*About me section articles*/
+.descrip{
+  display: flex;
+  text-align: center;
+  font-weight: bolder;
+  padding-left: 10px;
+  padding-right: 10px;;
+}
+
 /* footer icon image styling*/
 .footer{
   display:flex;
